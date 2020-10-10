@@ -32,7 +32,7 @@ Currently focused in learning and development applications with Node.js (Nest.js
 <img align="left" alt="Nest" width="26px" src="https://camo.githubusercontent.com/c4fd9ae4b5274b73d4d51c42263409ce74572040/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<br />
+
 <br />
 
 ### Version control skills:
@@ -49,6 +49,7 @@ Currently focused in learning and development applications with Node.js (Nest.js
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Visual_Studio_2013_Logo.svg/1200px-Visual_Studio_2013_Logo.svg.png" />
 <img align="left" alt="Sublime Text" width="26px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
 <img align="left" alt="Netbeans" width="26px" src="https://miro.medium.com/max/400/1*XPf1OhlUMgbo39OhroBMyA.png" />
+
 <br />
 <br />
 
