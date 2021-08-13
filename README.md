@@ -19,7 +19,7 @@ P.S: i've used Typescript on all of'em.
 
 [TODO List](https://github.com/BrunoSantoni/todo-list) - Next.js/Material UI/Redux
 
-<br/>
+
 
 ### Back-end with Node.js
 
