@@ -9,23 +9,25 @@ Currently focused in learning and development applications with Node.js (Nest.js
 ## Main Repositories
 
 I have plenty of repositories with different purposes, but the main ones are those that I developed from scratch as a practical challenge for some companies.
-P.S: i've used Typescript on all of'em.
+**P.S: i've used Typescript on all of'em.**
 
 ### Front-end with React
 
-[Crypto Search](https://github.com/BrunoSantoni/crypto-search) - Next.js/Context API/Tailwind CSS/Typescript/Jest
+[Crypto Search](https://github.com/BrunoSantoni/crypto-search) - Next.js / Context API / Tailwind CSS / Jest
 
-[Rick and Morty Episode Generator](https://github.com/BrunoSantoni/rick-and-morty-episode-generator) - CSS Modules/Sass/Apollo Client
+[Rick and Morty Episode Generator](https://github.com/BrunoSantoni/rick-and-morty-episode-generator) - CSS Modules / Sass / Apollo Client
 
-[TODO List](https://github.com/BrunoSantoni/todo-list) - Next.js/Material UI/Redux
+[TODO List](https://github.com/BrunoSantoni/todo-list) - Next.js / Material UI / Redux
 
 
 
 ### Back-end with Node.js
 
-[Document Analysis](https://github.com/BrunoSantoni/document-analysis) - Express/Jest/Docker/TypeORM/Postgres/Redis
+[Bitcoin Investment API](https://github.com/BrunoSantoni/bitcoin_investment_api) - Node.js / Fastify / Vitest / Docker / Prisma / Postgres / Redis / RabbitMQ / Sendgrid e-mail sender
 
-[Tweet Analyzer](https://github.com/BrunoSantoni/tweet-analyzer) - Node.js/Express/Typescript/Jest/TypeORM/SQLite
+[Document Analysis](https://github.com/BrunoSantoni/document-analysis) - Node.js / Express / Jest / Docker / TypeORM / Postgres / Redis
+
+[Tweet Analyzer](https://github.com/BrunoSantoni/tweet-analyzer) - Node.js / Express / Jest / TypeORM / SQLite
 
 <br />
 
